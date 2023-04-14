@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "105472285376",
+    "project_id": "flash-chat-6c6ce",
+    "storage_bucket": "flash-chat-6c6ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105472285376:android:167551214cfacfe4912b25",
+        "android_client_info": {
+          "package_name": "Kamron.flash_chat_flutter_orign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105472285376-sugpisosdit6r8s7e2q0pm2nu52h0bt2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAMUjnfbefzLHi5qFFe-GhhZFhjjp15ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105472285376-sugpisosdit6r8s7e2q0pm2nu52h0bt2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
